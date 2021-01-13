@@ -1,1 +1,1 @@
-# AmazonReviewClassifier-NLP
+# Amazon Review Classifier
